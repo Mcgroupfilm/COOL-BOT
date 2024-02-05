@@ -39,5 +39,6 @@ python-decouple
 pyshorteners
 
 gTTS
+dnspython==2.3.0
 
 
